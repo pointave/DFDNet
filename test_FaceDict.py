@@ -92,7 +92,7 @@ def get_part_location(partpath, imgname):
         return 0
     with open(os.path.join(partpath,imgname+'.txt'),'r') as f:
         for line in f:
-            tmp = [np.float(i) for i in line.split(' ') if i != '\n']
+            tmp = [float(i) for i in line.split(' ') if i != '\n']
             Landmarks.append(tmp)
     Landmarks = np.array(Landmarks) 
     Map_LE = list(np.hstack((range(17,22), range(36,42))))
