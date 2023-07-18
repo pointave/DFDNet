@@ -48,8 +48,8 @@ The folder structure should be:
     python setup.py install
     cd ..
     ```
-
-    *Install dlib with conda "conda install -c conda-forge dlib" -pointave
+*pip install cmake
+*Install dlib with conda "conda install -c conda-forge dlib" -pointave (2023)
     
 
 ## Testing
