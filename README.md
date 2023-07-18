@@ -7,7 +7,6 @@
 
 ## Pre-train Models and dictionaries
 Downloading from the following url and put them into ./.
-- [BaiduNetDisk](https://pan.baidu.com/s/1K4fzjPiezVSMl5NjHoJCGQ) (s9ht)
 - [GoogleDrive](https://drive.google.com/drive/folders/1ks_IbobH6WVQ_Jy4oWTTGjSbMZVUSbl4?usp=sharing)
 
 The folder structure should be:
