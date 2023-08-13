@@ -40,7 +40,9 @@ The folder structure should be:
     ```
 *pip install cmake
 
-*Install dlib with conda "conda install -c conda-forge dlib" -pointave (2023)
+*Install dlib with conda "conda install -c conda-forge dlib"
+
+conda install nomkl --channel conda-forge
     
 
 ## Testing
